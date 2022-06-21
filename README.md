@@ -1,0 +1,2 @@
+# slam_usv_melodic
+一个全栈的无人船系统(挪威科技大学硕士论文complete_coverage/usv_simulator)
